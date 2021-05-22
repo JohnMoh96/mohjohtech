@@ -632,6 +632,11 @@ nav .fa{
 	}
 	
 	/*--Footer--*/
+	.footer-container{
+	background-color: #212329;
+	padding: 0 0 30rem 20px;
+	margin-top: 40px;
+	}
 	.footer{
 		height: 50vh;
 	}
